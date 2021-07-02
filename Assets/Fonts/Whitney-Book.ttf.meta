@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 61d4ba0784639a04da49180b63a19393
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Whitney
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f5b5b30e1f4d83742b85207e7ae92424, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
