@@ -6,7 +6,7 @@ public class ServerTextDestroy : MonoBehaviour
 {
     private void Update()
     {
-        if (gameObject.activeSelf == true)
+        if (gameObject.activeSelf)
         {
             Destroy(gameObject, 6f);
         }
