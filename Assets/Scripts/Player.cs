@@ -6,14 +6,19 @@ public class Player : MonoBehaviour
 {
     public float speed;
 
-    private Rigidbody2D rb;
+    private Rigidbody2D _rb;
     private Vector2 moveVelocity;
 
     private bool isGrounded;
 
     void Start()
     {
-        rb = GetComponent<Rigidbody2D>();
+        _rb = GetComponent<Rigidbody2D>();
+    }
+
+    public void Activate()
+    {
+        _rb.isKinematic = false;
     }
 
     void Update()
@@ -29,7 +34,7 @@ public class Player : MonoBehaviour
     {
         if (isGrounded)
         {
-            rb.MovePosition(rb.position + moveVelocity * Time.fixedDeltaTime);
+            _rb.MovePosition(_rb.position + moveVelocity * Time.fixedDeltaTime);
         }
     }
 
