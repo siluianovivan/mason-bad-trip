@@ -1,0 +1,16 @@
+﻿{
+  "Dialog":[
+    {
+      "Name" : "Mason",
+      "Lines" : [
+        "Hello there!"
+      ]
+    },
+    {
+      "Name" : "Stranger",
+      "Lines" : [
+        "General Kenobi!"
+      ]
+    }
+  ]
+}
