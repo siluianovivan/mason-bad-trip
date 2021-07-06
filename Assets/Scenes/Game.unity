@@ -2544,8 +2544,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f1e39da4616a87a4abbe6cc31c1aab31, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _destroyTime: 2
-  _episodeObject: {fileID: 868227178}
+  episodeSix: {fileID: 868227178}
 --- !u!61 &859672784
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2888,8 +2887,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61b5c27c2760fac4e90d96f80443e7af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _destroyTime: 2
-  _episodeObject: {fileID: 776238933}
+  episodeFour: {fileID: 776238933}
 --- !u!61 &1021498044
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2997,8 +2995,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8268fa19d4197bd46a6425bdbe54fa0f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _destroyTime: 2
-  _episodeObject: {fileID: 1839189133}
+  episodeTwo: {fileID: 1839189133}
 --- !u!61 &1055168528
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3148,8 +3145,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9aca6606988f2944b09e29522d65bcd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _destroyTime: 2
-  _episodeObject: {fileID: 481995428}
+  episodeFive: {fileID: 481995428}
 --- !u!61 &1094173871
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3220,8 +3216,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b9cbef8582ec114b9fbadf7ec7187b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _destroyTime: 2
-  _episodeObject: {fileID: 856298800}
+  episodeThree: {fileID: 856298800}
 --- !u!61 &1137175434
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5132,8 +5127,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c7f6927fcf00e8478878866d271c7c0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _destroyTime: 2
-  _episodeObject: {fileID: 1272277711}
+  episodeOne: {fileID: 1272277711}
 --- !u!61 &1978651876
 BoxCollider2D:
   m_ObjectHideFlags: 0
