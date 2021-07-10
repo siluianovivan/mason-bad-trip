@@ -11,13 +11,14 @@ public class Player : MonoBehaviour
 
     private bool isGrounded;
 
-    void Start()
+    void Awake()
     {
         _rb = GetComponent<Rigidbody2D>();
     }
 
     public void Activate()
     {
+        gameObject.SetActive(true);
         _rb.isKinematic = false;
     }
 

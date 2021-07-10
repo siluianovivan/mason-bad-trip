@@ -6,18 +6,29 @@ namespace Game.Episodes
 {
 	public class EpisodeBase : MonoBehaviour
 	{
-		public event Action EpisodeCompleted;
-		
+		public event Action<int> EpisodeCompleted;
+
+		[SerializeField] private int _episodeNumber;
 		[SerializeField] private float _destroyTime;
 		[SerializeField] private GameObject _episodeObject;
+		[SerializeField] private EpisodeTrigger _episodeTrigger;
+		[SerializeField] private Transform _playerSpawnerAfterEpisodeCompleted;
+
+		public int EpisodeNumber => _episodeNumber;
 		
-		private void OnCollisionEnter2D(Collision2D collision)
+		private void Awake()
 		{
-			if (collision.gameObject.CompareTag("PPlayer"))
-			{
-				StartCoroutine(SceneRoutine());
-				
-			}
+			_episodeTrigger.PlayerEnteredTheTrigger += OnPlayerEnteredTheTrigger;
+		}
+
+		public Vector3 GetPlayerSpawnerPosition()
+		{
+			return _playerSpawnerAfterEpisodeCompleted.position;
+		}
+
+		private void OnPlayerEnteredTheTrigger()
+		{
+			StartCoroutine(SceneRoutine());
 		}
 
 		protected virtual IEnumerator SceneRoutine()
@@ -28,7 +39,7 @@ namespace Game.Episodes
 			
 			Destroy(gameObject);
 			
-			EpisodeCompleted?.Invoke();
+			EpisodeCompleted?.Invoke(_episodeNumber);
 		}
 	}
 }
