@@ -15,7 +15,7 @@ namespace Game.Dialogs
 
 		private void Start()
 		{
-			StartDialog();
+			//StartDialog();
 		}
 
 		public void StartDialog()
