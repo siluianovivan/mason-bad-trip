@@ -15,11 +15,11 @@ C:/Users/User/Documents/GitHub/mason-bad-trip
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50711
+53074
 Successfully changed project path to: C:/Users/User/Documents/GitHub/mason-bad-trip
 C:/Users/User/Documents/GitHub/mason-bad-trip
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 42.76 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 35.95 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.13f1 (71691879b7f5)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
@@ -35,40 +35,40 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56848
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56588
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001339 seconds.
+Registered in 0.001046 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 44.10 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 34.66 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.026 seconds
+- Completed reload, in  1.711 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002820 seconds.
+Registered in 0.002765 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 46.65 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 36.26 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.172 seconds
+- Completed reload, in  0.950 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.39 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2108 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 93.5 MB.
-System memory in use after: 93.5 MB.
+System memory in use after: 93.6 MB.
 
 Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2546.
-Total: 2.791000 ms (FindLiveObjects: 0.196800 ms CreateObjectMapping: 0.086800 ms MarkObjects: 2.428100 ms  DeleteObjects: 0.077600 ms)
+Total: 1.918800 ms (FindLiveObjects: 0.176100 ms CreateObjectMapping: 0.083800 ms MarkObjects: 1.524200 ms  DeleteObjects: 0.133900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -82,500 +82,173 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 1 Создание Сервера/Эпизод 1. Fucking slaves get your ass back here.mp3
-  artifactKey: Guid(b6c4ec5f539aceb49bb3638a9bde2ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 1 Создание Сервера/Эпизод 1. Fucking slaves get your ass back here.mp3 using Guid(b6c4ec5f539aceb49bb3638a9bde2ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dcfbfb5d023369f4eb7e1194f18ca3f') in 0.090655 seconds 
-  Import took 0.093925 seconds .
+  path: Assets/Scenes/episodes/Episode 2.unity
+  artifactKey: Guid(5145235a3c5f0f44bab9ec65ddf21d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/episodes/Episode 2.unity using Guid(5145235a3c5f0f44bab9ec65ddf21d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '612c9e9eba2fc651a2a5747b1f81a610') in 0.015921 seconds 
+  Import took 0.019547 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000165 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Таверна.png
-  artifactKey: Guid(79fecd1fd2bcd6c49b92a867b666c7bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Таверна.png using Guid(79fecd1fd2bcd6c49b92a867b666c7bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00d139c23920daafdb5e444db8efd08b') in 0.037844 seconds 
-  Import took 0.041105 seconds .
+  Time since last request: 147.184554 seconds.
+  path: Assets/Scenes/Episode 3.unity
+  artifactKey: Guid(8996448d38ba9844bb8e1623955d0bd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Episode 3.unity using Guid(8996448d38ba9844bb8e1623955d0bd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b64e727ae96562540babd1031bf4da0f') in 0.007036 seconds 
+  Import took 0.020803 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000149 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 1 Создание Сервера
-  artifactKey: Guid(42ac49da52172a74f86722baf64b2e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 1 Создание Сервера using Guid(42ac49da52172a74f86722baf64b2e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c28cc8b2f190ac0e266e3e11c3436e6') in 0.005273 seconds 
-  Import took 0.009262 seconds .
+  Time since last request: 8.901083 seconds.
+  path: Assets/Scenes/Episode 4.unity
+  artifactKey: Guid(36bb23c6cf130554dbe8d5204e13ffa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Episode 4.unity using Guid(36bb23c6cf130554dbe8d5204e13ffa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b76dfaedf00f45f00204ebf5e6ca9c0') in 0.006692 seconds 
+  Import took 0.011026 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 8.466337 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/1.png
-  artifactKey: Guid(7719d9c9b1413784280ddef791941dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/1.png using Guid(7719d9c9b1413784280ddef791941dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30b72eb20c5d6bb3f9301e9a05f3bd7c') in 0.012679 seconds 
-  Import took 0.015956 seconds .
+  Time since last request: 34.852074 seconds.
+  path: Assets/Scenes/Episode 5.unity
+  artifactKey: Guid(bd75717c430f8f14dba8dccbb3975e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Episode 5.unity using Guid(bd75717c430f8f14dba8dccbb3975e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8797f503810cbaa8701c5113a507dfa6') in 0.006885 seconds 
+  Import took 0.019843 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000160 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/2.png
-  artifactKey: Guid(a02313ab1005b2147996bcfe371c16e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/2.png using Guid(a02313ab1005b2147996bcfe371c16e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60120dbc82cb83df1aa6590feb595f1f') in 0.014121 seconds 
-  Import took 0.017486 seconds .
+  Time since last request: 6.548843 seconds.
+  path: Assets/Scenes/Episode 6.unity
+  artifactKey: Guid(2e11d3b898b200147a2b421e84c7e6ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Episode 6.unity using Guid(2e11d3b898b200147a2b421e84c7e6ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8055433df0e52ec5b66f530c42b8cf3b') in 0.005951 seconds 
+  Import took 0.018398 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000200 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/5.png
-  artifactKey: Guid(c2f00e22b0c5f2d4c9841d48caf00b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/5.png using Guid(c2f00e22b0c5f2d4c9841d48caf00b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55979fcb782a5f56b9160ceb23721f67') in 0.013408 seconds 
-  Import took 0.016493 seconds .
+  Time since last request: 5.940284 seconds.
+  path: Assets/Scenes/Episode 7.unity
+  artifactKey: Guid(adab889f864a38b42ba22983734d0e7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Episode 7.unity using Guid(adab889f864a38b42ba22983734d0e7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79f563485cdabdb8cc2e194985e41645') in 0.006769 seconds 
+  Import took 0.010464 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000159 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/3.png
-  artifactKey: Guid(ea2ed1d1e9a14304983de970ee2d1bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/3.png using Guid(ea2ed1d1e9a14304983de970ee2d1bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '047bc74f53e26b8cec9c82d17956b1ac') in 0.024556 seconds 
-  Import took 0.027592 seconds .
+  Time since last request: 6.479022 seconds.
+  path: Assets/Scenes/Episode 8.unity
+  artifactKey: Guid(feb41f4babc589040a826a3ea1a31923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Episode 8.unity using Guid(feb41f4babc589040a826a3ea1a31923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed0fe93540fd58c71e0b834eaaa1395c') in 0.007399 seconds 
+  Import took 0.011552 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000154 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/background.png
-  artifactKey: Guid(d157f182a2d79bb4cbc594750ebc43fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/background.png using Guid(d157f182a2d79bb4cbc594750ebc43fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ee156ed7501ce7f638e210f0b66b044') in 0.012422 seconds 
-  Import took 0.015943 seconds .
+  Time since last request: 5.677362 seconds.
+  path: Assets/Scenes/Episode 9.unity
+  artifactKey: Guid(18b37318cd3c83f46921a55a0435a2bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Episode 9.unity using Guid(18b37318cd3c83f46921a55a0435a2bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '269bb2cb7f02e57d54cf3b885548a78f') in 0.006753 seconds 
+  Import took 0.019397 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000164 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/4.png
-  artifactKey: Guid(d2601638a17c1c54f85d8ba12d364c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/4.png using Guid(d2601638a17c1c54f85d8ba12d364c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb6b90613f4e1f87fff243f4aecd86b6') in 0.016070 seconds 
-  Import took 0.019441 seconds .
+  Time since last request: 7.812685 seconds.
+  path: Assets/Scenes/Episode 10.unity
+  artifactKey: Guid(60d34cc9d0aa552499fd832e8b59be3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Episode 10.unity using Guid(60d34cc9d0aa552499fd832e8b59be3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '743b4d4c7f5e9a5246c4bc739e1ff3e5') in 0.007976 seconds 
+  Import took 0.019888 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.679451 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Эпизод 3. Рынок.png
-  artifactKey: Guid(c81e946878bd9fd4fb330eab7705a048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Эпизод 3. Рынок.png using Guid(c81e946878bd9fd4fb330eab7705a048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2af2475d128e23f7bd1ff4b5e7a377d') in 0.031639 seconds 
-  Import took 0.035534 seconds .
+  Time since last request: 5.378710 seconds.
+  path: Assets/Scenes/Episode 11.unity
+  artifactKey: Guid(762fbdb5ef19ed64c926d3262a16b3bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Episode 11.unity using Guid(762fbdb5ef19ed64c926d3262a16b3bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cdd60e5691d778a1eecf014aa63d95e') in 0.006830 seconds 
+  Import took 0.010590 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.428883 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Звуки
-  artifactKey: Guid(9d92b60eb8ab2e345bc124d636105d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Звуки using Guid(9d92b60eb8ab2e345bc124d636105d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2156cd4c444c385ee3244e8522feeea') in 0.005504 seconds 
-  Import took 0.008838 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.095104 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Звуки/Эпизод 3. Boss of this gym.mp3
-  artifactKey: Guid(aeaada09441e4af40af95780ccc27058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Звуки/Эпизод 3. Boss of this gym.mp3 using Guid(aeaada09441e4af40af95780ccc27058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8dd9bf21383f3d17207f17dd76af3b4') in 0.010127 seconds 
-  Import took 0.013426 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000131 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Звуки/Эпизод 3. Вы кто такие. Я Вас не звал. Идите на хуй.mp3
-  artifactKey: Guid(fa96a395fabc4d845b6c24a8f8221ce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Звуки/Эпизод 3. Вы кто такие. Я Вас не звал. Идите на хуй.mp3 using Guid(fa96a395fabc4d845b6c24a8f8221ce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '410feeb24c04cdd97bcdf3969da5352b') in 0.009861 seconds 
-  Import took 0.012974 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 2.54 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 55.0 MB.
-System memory in use after: 55.0 MB.
-
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2560.
-Total: 3.118900 ms (FindLiveObjects: 0.199200 ms CreateObjectMapping: 0.092200 ms MarkObjects: 2.780700 ms  DeleteObjects: 0.045500 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 21.503050 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Телефон/Звук1.png
-  artifactKey: Guid(1f67f5f40a458914ea1c0fe7f505c53c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Телефон/Звук1.png using Guid(1f67f5f40a458914ea1c0fe7f505c53c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daa74bd81571e6673196e8e6c17e7878') in 0.012543 seconds 
-  Import took 0.016021 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000150 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Телефон/Звук3.png
-  artifactKey: Guid(33b598b58c27d0d48b1ca854d4df14ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Телефон/Звук3.png using Guid(33b598b58c27d0d48b1ca854d4df14ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e4293181076c8c830842ee9c4db5312') in 0.009643 seconds 
-  Import took 0.012588 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000159 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Телефон/Звук2.png
-  artifactKey: Guid(74cd83277415c8842846e81629d91e31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Телефон/Звук2.png using Guid(74cd83277415c8842846e81629d91e31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '104485905546ab936a59bfc8883b2acf') in 0.011256 seconds 
-  Import took 0.014311 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000215 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Телефон/Телефон.psd
-  artifactKey: Guid(087864c6f9c83f0489c4d894ac847a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Телефон/Телефон.psd using Guid(087864c6f9c83f0489c4d894ac847a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34f1ead27b8b99e5808fec0d76b615b1') in 0.022406 seconds 
-  Import took 0.025436 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000235 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Телефон/Телефон.png
-  artifactKey: Guid(8ec238f3ee407b9469812ef6d9c4e0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Телефон/Телефон.png using Guid(8ec238f3ee407b9469812ef6d9c4e0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cd75a2e046916342dc13eae3e6ec3e7') in 0.013490 seconds 
-  Import took 0.016758 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000147 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Телефон/Звуки телефона.png
-  artifactKey: Guid(0b79afe5f4041d348aae74426aefefdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Телефон/Звуки телефона.png using Guid(0b79afe5f4041d348aae74426aefefdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4246c3d099d3e0fef6a82f47639d1b9d') in 0.013235 seconds 
-  Import took 0.016175 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.392142 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 4 Солнышки/stalker — чики-брики.mp3
-  artifactKey: Guid(a9b2c3caf2ba2694ea9f3a042b9d0eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 4 Солнышки/stalker — чики-брики.mp3 using Guid(a9b2c3caf2ba2694ea9f3a042b9d0eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84bb194221cda07157270a1d2eed81be') in 0.011015 seconds 
-  Import took 0.014522 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000152 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 4 Солнышки/Эпизод 4. Солнышки.png
-  artifactKey: Guid(040905ad8519a0645b71cbe4dac392b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 4 Солнышки/Эпизод 4. Солнышки.png using Guid(040905ad8519a0645b71cbe4dac392b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcd9a1d4e985a8acb78315abd272ae2e') in 0.012956 seconds 
-  Import took 0.015942 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000145 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 4 Солнышки/Эпизод 4. Здорово, бандиты.mp3
-  artifactKey: Guid(893436b29ed4f4e4682de95f843ce0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 4 Солнышки/Эпизод 4. Здорово, бандиты.mp3 using Guid(893436b29ed4f4e4682de95f843ce0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2eb888047f54354635b1fd6e91279e7') in 0.010295 seconds 
-  Import took 0.013493 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 48.138326 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 5 Возведение города/1626171687439.mp4
-  artifactKey: Guid(5c9d0fa489054b845a59f971d8b9865a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 5 Возведение города/1626171687439.mp4 using Guid(5c9d0fa489054b845a59f971d8b9865a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '509a3dc7fec092fec46445cf620acc7d') in 0.019605 seconds 
-  Import took 0.023108 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000172 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 5 Возведение города/marko-drazic-open-village.jpg
-  artifactKey: Guid(023ad7d2ca1ab5f4395661d477c564b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 5 Возведение города/marko-drazic-open-village.jpg using Guid(023ad7d2ca1ab5f4395661d477c564b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fa17ba3f9572625edba04c4bbf53e80') in 0.038124 seconds 
-  Import took 0.041568 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.516454 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 6 Отрытие ящика Пандоры/Эпизод 6. Ящик Пандоры. Лес1.jpg
-  artifactKey: Guid(952dffffe989f57448561c950cb40625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 6 Отрытие ящика Пандоры/Эпизод 6. Ящик Пандоры. Лес1.jpg using Guid(952dffffe989f57448561c950cb40625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0820047a0e3e2974894f9f2363573477') in 0.013147 seconds 
-  Import took 0.016461 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000162 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 6 Отрытие ящика Пандоры/не подходит.png
-  artifactKey: Guid(9b246f3447067434ab5766d563a0e3eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 6 Отрытие ящика Пандоры/не подходит.png using Guid(9b246f3447067434ab5766d563a0e3eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '026185a1b3f20eb7e6a589f8dffab4a5') in 0.013631 seconds 
-  Import took 0.016773 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000161 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 6 Отрытие ящика Пандоры/Эпизод 6. Ящик Пандоры. Лес2.jpg
-  artifactKey: Guid(98d40a120720d5045a6061eb7d14a835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 6 Отрытие ящика Пандоры/Эпизод 6. Ящик Пандоры. Лес2.jpg using Guid(98d40a120720d5045a6061eb7d14a835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '056b28f9ab505ad5f0e27a58ba79c63c') in 0.011521 seconds 
-  Import took 0.014548 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.368375 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 7 Мат это мат или нет_/nastol.com.ua-162443.jpg
-  artifactKey: Guid(b998270fd0f3e6841a291d94377ed8e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 7 Мат это мат или нет_/nastol.com.ua-162443.jpg using Guid(b998270fd0f3e6841a291d94377ed8e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7c6d0682ca17133f74bb5cc6ea900b6') in 0.025550 seconds 
-  Import took 0.028945 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000139 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 7 Мат это мат или нет_/ocr.jpg
-  artifactKey: Guid(014a54709a4a28b4f840c126d7c71c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 7 Мат это мат или нет_/ocr.jpg using Guid(014a54709a4a28b4f840c126d7c71c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a15efd4a5d00d5a56a157227fab118c') in 0.013000 seconds 
-  Import took 0.016504 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.255317 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 8 Поцелуй Лйрраента!/Эпизод 8. Болото 1 (приоритет).jpg
-  artifactKey: Guid(dd56da5bb3170504da8e5853ad3cfa3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 8 Поцелуй Лйрраента!/Эпизод 8. Болото 1 (приоритет).jpg using Guid(dd56da5bb3170504da8e5853ad3cfa3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a3d9853817959ec0ae562d23b8d79c5') in 0.016935 seconds 
-  Import took 0.020287 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000169 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 8 Поцелуй Лйрраента!/Эпизод 8. Болото 2.png
-  artifactKey: Guid(4b7308038cecd3e41994f987386619a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 8 Поцелуй Лйрраента!/Эпизод 8. Болото 2.png using Guid(4b7308038cecd3e41994f987386619a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e830491b94f9d13feb6f0ce0589ea11') in 0.014628 seconds 
-  Import took 0.017731 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000119 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 8 Поцелуй Лйрраента!/не подходит.png
-  artifactKey: Guid(4ef6331a1d2101e4581cbd2813fd0d40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 8 Поцелуй Лйрраента!/не подходит.png using Guid(4ef6331a1d2101e4581cbd2813fd0d40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40364e8857c00013c227e94025c7ef09') in 0.022347 seconds 
-  Import took 0.025417 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.153999 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 9 Создание карты сервера/Эпизод 9. Стол 1 (в приоритете).png
-  artifactKey: Guid(0ace0c514a09be940af2ceb7c54a0bec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 9 Создание карты сервера/Эпизод 9. Стол 1 (в приоритете).png using Guid(0ace0c514a09be940af2ceb7c54a0bec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '197a3a4d490194e06a38a781fe9f5378') in 0.014481 seconds 
-  Import took 0.017781 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 9 Создание карты сервера/Эпизод 9. Тоннель.png
-  artifactKey: Guid(8bfdca483f47d0e4e98443fa36aca72a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 9 Создание карты сервера/Эпизод 9. Тоннель.png using Guid(8bfdca483f47d0e4e98443fa36aca72a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ea38e932e1142fd7d8a10f81c7f55a7') in 0.015410 seconds 
-  Import took 0.018414 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000139 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 9 Создание карты сервера/Эпизод 9. Стол 2.png
-  artifactKey: Guid(3af06716ef60ab14587df8e6ffb425f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 9 Создание карты сервера/Эпизод 9. Стол 2.png using Guid(3af06716ef60ab14587df8e6ffb425f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd78cb453a50247d3aab3e6175a912201') in 0.017439 seconds 
-  Import took 0.029260 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.727353 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 10 Фанфик Фаншарка/Эпизод 10. Комната.png
-  artifactKey: Guid(a217dc5bba690cd4fa12bc12e9fe35fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 10 Фанфик Фаншарка/Эпизод 10. Комната.png using Guid(a217dc5bba690cd4fa12bc12e9fe35fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1773cfe543b5723d183b5d3095a9da7') in 0.013210 seconds 
-  Import took 0.017406 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000159 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 10 Фанфик Фаншарка/Эпизод 10. Таверна.jpg
-  artifactKey: Guid(7369d95977fea6849b849292bb8706a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 10 Фанфик Фаншарка/Эпизод 10. Таверна.jpg using Guid(7369d95977fea6849b849292bb8706a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e56fb998cf486e3212c8b41b2f18c78') in 0.012063 seconds 
-  Import took 0.015133 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.079886 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/walkie_talkie_PNG92791.png
-  artifactKey: Guid(d0cb5cd5b46d0dd449931275a0ea0d9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/walkie_talkie_PNG92791.png using Guid(d0cb5cd5b46d0dd449931275a0ea0d9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '536e58f33cdf0bcede88f87fe8f0e8a1') in 0.027394 seconds 
-  Import took 0.030742 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000132 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/Эпизод 11. 415 база.mp3
-  artifactKey: Guid(4184dd104312ef241ba9f57aec4c6d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/Эпизод 11. 415 база.mp3 using Guid(4184dd104312ef241ba9f57aec4c6d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a80216af3bfbb417150ec00ab7441b91') in 0.009477 seconds 
-  Import took 0.012521 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000139 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/Эпизод 11. Полёт на Жар-Птице.png
-  artifactKey: Guid(d7c4599ea0079cf428b7d6a47d5dfc05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/Эпизод 11. Полёт на Жар-Птице.png using Guid(d7c4599ea0079cf428b7d6a47d5dfc05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05d0e4f1876d99f480a8e0affed0adfb') in 0.011770 seconds 
-  Import took 0.023648 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 34.372470 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/Эпизод 11. Вилла
-  artifactKey: Guid(49794f79cdd1b2d4ea6f8d7503d515f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/Эпизод 11. Вилла using Guid(49794f79cdd1b2d4ea6f8d7503d515f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c9c915c83cbd73460ca4d74b053073d') in 0.006485 seconds 
-  Import took 0.009552 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.214008 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/Эпизод 11. Вилла/стол.png
-  artifactKey: Guid(002ae9cb17be42a478387916389d3883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/Эпизод 11. Вилла/стол.png using Guid(002ae9cb17be42a478387916389d3883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47a88be2d242cbb7dba5f71364fee40e') in 0.015526 seconds 
-  Import took 0.019085 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000135 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/Эпизод 11. Вилла/шарики.png
-  artifactKey: Guid(2cea96ed0c2de3c499a82c6ecb57ba7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/Эпизод 11. Вилла/шарики.png using Guid(2cea96ed0c2de3c499a82c6ecb57ba7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb88b6ca0fe62bb133267d4bf7314512') in 0.012688 seconds 
-  Import took 0.015610 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000133 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/Эпизод 11. Вилла/торт.png
-  artifactKey: Guid(8728333086f331c41abe83cfdc91aeb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/Эпизод 11. Вилла/торт.png using Guid(8728333086f331c41abe83cfdc91aeb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbc07df003e2e06da56a2829a58ab989') in 0.013223 seconds 
-  Import took 0.016071 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000135 seconds.
-  path: Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/Эпизод 11. Вилла/фон.png
-  artifactKey: Guid(ec39fcca5360aed4bb17e9f0d2d5dd6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/Эпизод 11. Вилла/фон.png using Guid(ec39fcca5360aed4bb17e9f0d2d5dd6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52381ed0b164c2fc1b9759605c2adf57') in 0.019635 seconds 
-  Import took 0.023257 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1483.926852 seconds.
-  path: Assets/Sprites/6f6ec310eedfbcb45f300d24d0ea0cda.png
-  artifactKey: Guid(6fd4d1d015f10604faff98e3c77617b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/6f6ec310eedfbcb45f300d24d0ea0cda.png using Guid(6fd4d1d015f10604faff98e3c77617b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f3fbf02102aa323d4abe2ca726e187b') in 0.037260 seconds 
-  Import took 0.041719 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000140 seconds.
-  path: Assets/Sprites/sprites-1.jpg
-  artifactKey: Guid(11abe45f81b2ce8449e1db73fa5783dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/sprites-1.jpg using Guid(11abe45f81b2ce8449e1db73fa5783dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eba65471c70ab7c57580a6e1e25ba533') in 0.023389 seconds 
-  Import took 0.026272 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/Sprites/cloud.jpg
-  artifactKey: Guid(b440a2dbd257aa54a937b2e0c8332472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/cloud.jpg using Guid(b440a2dbd257aa54a937b2e0c8332472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17c0640fe35b04d7de1eb83a783ac1fe') in 0.021083 seconds 
-  Import took 0.024228 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000149 seconds.
-  path: Assets/Sprites/cloud.png
-  artifactKey: Guid(fbb0244d22680c143b561307293beadd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/cloud.png using Guid(fbb0244d22680c143b561307293beadd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8eb795d0d0435dcf2b4330706241e74') in 0.023311 seconds 
-  Import took 0.026362 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1698.326852 seconds.
-  path: Assets/Scripts/Game
-  artifactKey: Guid(8289d5edcbae454fae6b86b746ac77b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Game using Guid(8289d5edcbae454fae6b86b746ac77b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dcac0f32a80b2ebec74ee6f6541306e') in 0.006391 seconds 
-  Import took 0.010330 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.767845 seconds.
-  path: Assets/Scripts/Game/Dialogs
-  artifactKey: Guid(2eb0690108cd4dd49272369579de5ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Game/Dialogs using Guid(2eb0690108cd4dd49272369579de5ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '622fd4878adfd74c6585634a4487eca8') in 0.005785 seconds 
-  Import took 0.008938 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 19.512932 seconds.
-  path: Assets/Scripts/Player.cs
-  artifactKey: Guid(0f1a87c945afd124f9c145848c42b05e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Player.cs using Guid(0f1a87c945afd124f9c145848c42b05e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cf6d6d6594062b0b321da3f32968271') in 0.010719 seconds 
-  Import took 0.013690 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.020480 seconds.
-  path: Assets/Scripts/Player.cs
-  artifactKey: Guid(0f1a87c945afd124f9c145848c42b05e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Player.cs using Guid(0f1a87c945afd124f9c145848c42b05e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cf6d6d6594062b0b321da3f32968271') in 0.002049 seconds 
-  Import took 0.006038 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 42.829280 seconds.
-  path: Assets/Scripts/Game/Episodes/EpisodeBase.cs
-  artifactKey: Guid(28bf55bc858d4b15a7bdfa8149548adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Game/Episodes/EpisodeBase.cs using Guid(28bf55bc858d4b15a7bdfa8149548adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '224cee1ff36359887767c72aa9bf2584') in 0.005888 seconds 
-  Import took 0.009258 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000945 seconds.
-  path: Assets/Scripts/Game/Episodes/EpisodeBase.cs
-  artifactKey: Guid(28bf55bc858d4b15a7bdfa8149548adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Game/Episodes/EpisodeBase.cs using Guid(28bf55bc858d4b15a7bdfa8149548adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '224cee1ff36359887767c72aa9bf2584') in 0.001906 seconds 
-  Import took 0.004922 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.564670 seconds.
-  path: Assets/Scripts/Game/Episodes/EpisodeOne.cs
-  artifactKey: Guid(0c7f6927fcf00e8478878866d271c7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Game/Episodes/EpisodeOne.cs using Guid(0c7f6927fcf00e8478878866d271c7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c662f62e7931ed6813bf449d82395e8b') in 0.005319 seconds 
-  Import took 0.009251 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 957.994168 seconds.
-  path: Assets/Scripts/Game/Episodes/EpisodeTrigger.cs
-  artifactKey: Guid(5fc7db8740db4d8c88d20f442c4e8cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Game/Episodes/EpisodeTrigger.cs using Guid(5fc7db8740db4d8c88d20f442c4e8cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c52085f5fa7679d878fa2d6e822f289') in 0.006869 seconds 
-  Import took 0.011061 seconds .
+  Time since last request: 5.421052 seconds.
+  path: Assets/Scenes/Game.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0fc5e9991584eff7b65a342aaeae000') in 0.007264 seconds 
+  Import took 0.010745 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.075740 seconds.
+Registered in 0.002237 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.041 seconds
+- Completed reload, in  0.903 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.2 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2550.
+Total: 1.809200 ms (FindLiveObjects: 0.171000 ms CreateObjectMapping: 0.074000 ms MarkObjects: 1.522000 ms  DeleteObjects: 0.041500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002270 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.911 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 96.1 MB.
-System memory in use after: 96.2 MB.
+System memory in use before: 93.2 MB.
+System memory in use after: 93.3 MB.
 
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2590.
-Total: 2.106600 ms (FindLiveObjects: 0.177200 ms CreateObjectMapping: 0.069700 ms MarkObjects: 1.766900 ms  DeleteObjects: 0.092100 ms)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2554.
+Total: 2.196000 ms (FindLiveObjects: 0.166600 ms CreateObjectMapping: 0.066100 ms MarkObjects: 1.883700 ms  DeleteObjects: 0.078900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002460 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.870 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.2 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2558.
+Total: 1.794900 ms (FindLiveObjects: 0.173300 ms CreateObjectMapping: 0.075300 ms MarkObjects: 1.502700 ms  DeleteObjects: 0.042900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -589,18 +262,307 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 618.676266 seconds.
-  path: Assets/Scenes/episodes
-  artifactKey: Guid(a60ef24989ee7c543b30280720ffc4c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/episodes using Guid(a60ef24989ee7c543b30280720ffc4c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcfad925aa17c65c469ec0445be82553') in 0.009436 seconds 
-  Import took 0.012896 seconds .
+  Time since last request: 1302.887565 seconds.
+  path: Assets/1.png
+  artifactKey: Guid(86ed40e39d8e148478eca1944a8cde34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1.png using Guid(86ed40e39d8e148478eca1944a8cde34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '759509dfc27f691b0f19ca3f1ceab6e5') in 0.111905 seconds 
+  Import took 0.116296 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000568 seconds.
-  path: Assets/Scenes/episodes
-  artifactKey: Guid(a60ef24989ee7c543b30280720ffc4c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/episodes using Guid(a60ef24989ee7c543b30280720ffc4c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcfad925aa17c65c469ec0445be82553') in 0.002003 seconds 
-  Import took 0.005927 seconds .
+  Time since last request: 0.000190 seconds.
+  path: Assets/bg2 (z -3).png
+  artifactKey: Guid(5d8b5228d3e58b04a99590555afc7a1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/bg2 (z -3).png using Guid(5d8b5228d3e58b04a99590555afc7a1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57a12bdb8b7c4fa31f345be0039804bb') in 0.038771 seconds 
+  Import took 0.042537 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/bg1 (z -2).png
+  artifactKey: Guid(f10cdd185dc36ca4c90b83dae11bf2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/bg1 (z -2).png using Guid(f10cdd185dc36ca4c90b83dae11bf2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96026670a89097caec47038433089168') in 0.024438 seconds 
+  Import took 0.027925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/asset middleground (z -1).png
+  artifactKey: Guid(3b7a552dd554d784c9fed43b501d9ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset middleground (z -1).png using Guid(3b7a552dd554d784c9fed43b501d9ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebf6aab4998f4592c908e83661fdcf92') in 0.047651 seconds 
+  Import took 0.051367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/battleback1.png
+  artifactKey: Guid(5aafa1d3bc19b6e4e99601c3773e53c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/battleback1.png using Guid(5aafa1d3bc19b6e4e99601c3773e53c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c9d38823b8f5871d6e347bd632f39bf') in 0.022384 seconds 
+  Import took 0.026419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/background0.png
+  artifactKey: Guid(ba84e6668c9a33a42aa2bb91b35e8d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/background0.png using Guid(ba84e6668c9a33a42aa2bb91b35e8d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c74b4223b1df20e5ac39e32774883654') in 0.018728 seconds 
+  Import took 0.022689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/LA5VDIGU3G525F9_main_1320868552.jpg
+  artifactKey: Guid(ba2957366669b384b895568d71c415f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LA5VDIGU3G525F9_main_1320868552.jpg using Guid(ba2957366669b384b895568d71c415f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e99326e75222a3e6324f534e91a593e') in 0.024436 seconds 
+  Import took 0.028175 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002229 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.922 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.2 MB.
+System memory in use after: 96.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2578.
+Total: 2.311800 ms (FindLiveObjects: 0.187700 ms CreateObjectMapping: 0.075300 ms MarkObjects: 2.006400 ms  DeleteObjects: 0.041600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002185 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.870 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.2 MB.
+System memory in use after: 96.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2582.
+Total: 1.946800 ms (FindLiveObjects: 0.213000 ms CreateObjectMapping: 0.099300 ms MarkObjects: 1.533900 ms  DeleteObjects: 0.099900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 985.549944 seconds.
+  path: Assets/Scenes/Game.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '508b654f33b3a769284d9a1133196d90') in 0.023675 seconds 
+  Import took 0.028187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 467.168735 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(42bf67f611c84ee48b6b2c28e471bf92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(42bf67f611c84ee48b6b2c28e471bf92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2e1df205f726ef1397667b94f65d5bb') in 0.006534 seconds 
+  Import took 0.018503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.571424 seconds.
+  path: Assets/Animations/Transition.anim
+  artifactKey: Guid(854e65485f74d874c92235196e9ed0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Transition.anim using Guid(854e65485f74d874c92235196e9ed0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '218137205e820b1d4b2a4fec7b9b3dab') in 0.009000 seconds 
+  Import took 0.015499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001259 seconds.
+  path: Assets/Animations/Transition.anim
+  artifactKey: Guid(854e65485f74d874c92235196e9ed0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Transition.anim using Guid(854e65485f74d874c92235196e9ed0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '218137205e820b1d4b2a4fec7b9b3dab') in 0.002398 seconds 
+  Import took 0.006390 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002480 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.979 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.3 MB.
+System memory in use after: 96.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2586.
+Total: 1.869600 ms (FindLiveObjects: 0.174200 ms CreateObjectMapping: 0.075200 ms MarkObjects: 1.560200 ms  DeleteObjects: 0.058900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002996 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.871 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.3 MB.
+System memory in use after: 96.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2590.
+Total: 1.843800 ms (FindLiveObjects: 0.168500 ms CreateObjectMapping: 0.073300 ms MarkObjects: 1.484100 ms  DeleteObjects: 0.097000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002142 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.842 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.3 MB.
+System memory in use after: 96.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2594.
+Total: 2.176600 ms (FindLiveObjects: 0.171600 ms CreateObjectMapping: 0.064400 ms MarkObjects: 1.827400 ms  DeleteObjects: 0.112700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002355 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.959 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.3 MB.
+System memory in use after: 96.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2598.
+Total: 1.975000 ms (FindLiveObjects: 0.205500 ms CreateObjectMapping: 0.086600 ms MarkObjects: 1.547700 ms  DeleteObjects: 0.134200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002192 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.840 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.3 MB.
+System memory in use after: 96.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2602.
+Total: 1.963100 ms (FindLiveObjects: 0.177400 ms CreateObjectMapping: 0.067800 ms MarkObjects: 1.587800 ms  DeleteObjects: 0.115100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

@@ -13,6 +13,7 @@ namespace Game.Episodes
 		private float _timeLeft = 1.5f;
 
 		[SerializeField] private int _episodeNumber;
+		[SerializeField] private int _loadSceneNumber;
 		[SerializeField] private GameObject _otherGameObject;
 
         private void Start()
@@ -27,7 +28,7 @@ namespace Game.Episodes
 				_timeLeft -= Time.deltaTime;
 				if (_timeLeft < 0)
                 {
-					SceneManager.LoadScene(_episodeNumber);
+					SceneManager.LoadScene(_loadSceneNumber);
 					_haveCollision = false;
 					_timeLeft = 1.5f;
 				}
