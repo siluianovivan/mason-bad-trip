@@ -1,0 +1,383 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.13f1 (71691879b7f5) revision 7432472'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1500; Version 1909; 64bit' Language: 'ru' Physical Memory: 3977 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Никита/mason-bad-trip
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62205
+Successfully changed project path to: C:/Users/Никита/mason-bad-trip
+C:/Users/Никита/mason-bad-trip
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 105.18 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.13f1 (71691879b7f5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Никита/mason-bad-trip/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   
+    VRAM:     1988 MB
+    Driver:   25.20.100.6446
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56952
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007640 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 262.32 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 10.569 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.039364 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 88.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.137 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.26 seconds
+Refreshing native plugins compatible for Editor in 1.21 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2108 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2548.
+Total: 6.762100 ms (FindLiveObjects: 0.656400 ms CreateObjectMapping: 0.281100 ms MarkObjects: 5.669800 ms  DeleteObjects: 0.150500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Sprites/UI/Кнопка меню 1.png
+  artifactKey: Guid(45c9a21b6d6c96146962804a82dfd2b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/UI/Кнопка меню 1.png using Guid(45c9a21b6d6c96146962804a82dfd2b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '120342cc6d8b398880a070f63880c851') in 0.688170 seconds 
+  Import took 0.695971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.893366 seconds.
+  path: Assets/Sprites/UI/Для диолога1 1.png
+  artifactKey: Guid(1dbdfb4f8675323459e5c48fa447361f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/UI/Для диолога1 1.png using Guid(1dbdfb4f8675323459e5c48fa447361f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bab737cf64b8b2788d8d84e0a3828ad0') in 0.127050 seconds 
+  Import took 0.150781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.467258 seconds.
+  path: Assets/Scenes/Menu.unity
+  artifactKey: Guid(5c5882ada66dd4e4d8ad372200407b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Menu.unity using Guid(5c5882ada66dd4e4d8ad372200407b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1363424d6d48751f92a88beaa31f56b') in 0.023831 seconds 
+  Import took 0.034871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.869998 seconds.
+  path: Assets/Scenes/PauseMenu.unity
+  artifactKey: Guid(a46160296e1675b4581d2ae1d89ee581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PauseMenu.unity using Guid(a46160296e1675b4581d2ae1d89ee581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53c38c6591c26e4ab25dacb12940efce') in 0.024153 seconds 
+  Import took 0.033776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18391.335715 seconds.
+  path: Assets/Scenes/episodes/Episode 2.unity
+  artifactKey: Guid(5145235a3c5f0f44bab9ec65ddf21d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/episodes/Episode 2.unity using Guid(5145235a3c5f0f44bab9ec65ddf21d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '097feff9da9f02736782f75b19f42f57') in 0.330069 seconds 
+  Import took 0.774665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.016955 seconds.
+  path: Assets/Sprites/Эпизоды (фоны и объекты)/Эпизод 4 Солнышки
+  artifactKey: Guid(de54ada86d1e734478d90351fa6b0533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Эпизоды (фоны и объекты)/Эпизод 4 Солнышки using Guid(de54ada86d1e734478d90351fa6b0533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '321138da178758ef5d73a768f5d9dfc9') in 0.045941 seconds 
+  Import took 0.069260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.154569 seconds.
+  path: Assets/Sprites/Эпизоды (фоны и объекты)/Эпизод 6 Отрытие ящика Пандоры
+  artifactKey: Guid(1dfc05e87a02d3b448eeb92c2991a654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Эпизоды (фоны и объекты)/Эпизод 6 Отрытие ящика Пандоры using Guid(1dfc05e87a02d3b448eeb92c2991a654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5285d64b3aff8bd1702c01eb652cd621') in 0.033685 seconds 
+  Import took 0.046849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.090076 seconds.
+  path: Assets/Sprites/Эпизоды (фоны и объекты)/Эпизод 6 Отрытие ящика Пандоры/Эпизод 6. Ящик Пандоры. Лес1.jpg
+  artifactKey: Guid(13c92cd8708b73f40996a189a6702302) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Эпизоды (фоны и объекты)/Эпизод 6 Отрытие ящика Пандоры/Эпизод 6. Ящик Пандоры. Лес1.jpg using Guid(13c92cd8708b73f40996a189a6702302) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2021e84ce2fafbbafad17b78def7757') in 0.377993 seconds 
+  Import took 0.390051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 246.583742 seconds.
+  path: Assets/Персонажи
+  artifactKey: Guid(e146ac2e42307e048a1a6c6a0f631ea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Персонажи using Guid(e146ac2e42307e048a1a6c6a0f631ea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9b569a4ae8f48798fc76cf80a58ff29') in 0.034537 seconds 
+  Import took 0.220595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001048 seconds.
+  path: Assets/Персонажи/Жарптица силуэт 2.png
+  artifactKey: Guid(a9c7ea882f43c6f4f864de97114bc8e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Персонажи/Жарптица силуэт 2.png using Guid(a9c7ea882f43c6f4f864de97114bc8e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7467bf3795616bbe44cf203012c81ca1') in 0.392082 seconds 
+  Import took 0.407360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Персонажи/Жаб.png
+  artifactKey: Guid(11e6285a3ce07d449b3be469675fb426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Персонажи/Жаб.png using Guid(11e6285a3ce07d449b3be469675fb426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bde63e60117795f13e64c024058dba2') in 0.121444 seconds 
+  Import took 0.135632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Персонажи/Инкогнито.png
+  artifactKey: Guid(6d812a6ce7360374d8dea5afcc02b31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Персонажи/Инкогнито.png using Guid(6d812a6ce7360374d8dea5afcc02b31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4048c6852b2ee35f6079fef60248cd76') in 0.087220 seconds 
+  Import took 0.099226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Персонажи/Жарптица Вверх.png
+  artifactKey: Guid(1c5b09446c46dfa4f9208c5f6b7e2526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Персонажи/Жарптица Вверх.png using Guid(1c5b09446c46dfa4f9208c5f6b7e2526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '932ad85435fb22ad9b004bc6ff35e53a') in 0.116110 seconds 
+  Import took 0.130297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Персонажи/Жаб резерв.psd
+  artifactKey: Guid(7fb4fe75ceaa0b04d9f3599938f01836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Персонажи/Жаб резерв.psd using Guid(7fb4fe75ceaa0b04d9f3599938f01836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0fad32ac3f6be6cb79ae777041bfa31') in 0.142864 seconds 
+  Import took 0.156307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Персонажи/Жарптица резерв.psd
+  artifactKey: Guid(7f342eddead997b4f88abeacdd9c1022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Персонажи/Жарптица резерв.psd using Guid(7f342eddead997b4f88abeacdd9c1022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '600fc24a4e6b05d44931a97f1b860237') in 0.125799 seconds 
+  Import took 0.139557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Персонажи/Жарптица Обычная.png
+  artifactKey: Guid(487af096873411e42af0503b54aac819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Персонажи/Жарптица Обычная.png using Guid(487af096873411e42af0503b54aac819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9acfcef078c1457514d8fad7bb00e9d') in 0.134209 seconds 
+  Import took 0.149068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/Персонажи/Жарптица силуэт.png
+  artifactKey: Guid(af5b773fadcfca5428d2efd41c137c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Персонажи/Жарптица силуэт.png using Guid(af5b773fadcfca5428d2efd41c137c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '245cf699c1263426ad667639de2a8d32') in 0.086776 seconds 
+  Import took 0.099765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/Персонажи/Вомбат резерв.psd
+  artifactKey: Guid(ed119fa50164e33428f51e11017da1b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Персонажи/Вомбат резерв.psd using Guid(ed119fa50164e33428f51e11017da1b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96e6d727df18368d864c2b727f6036d8') in 0.223124 seconds 
+  Import took 0.236842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000695 seconds.
+  path: Assets/Персонажи/чебырах.png
+  artifactKey: Guid(7f29b353f2257c0419206248345fd097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Персонажи/чебырах.png using Guid(7f29b353f2257c0419206248345fd097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a308162dd145267c1cfd845df5b881f') in 0.078841 seconds 
+  Import took 0.093187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Персонажи/Лосось резерв.psd
+  artifactKey: Guid(d004cd4e8af139f46b34ea44ccd5e773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Персонажи/Лосось резерв.psd using Guid(d004cd4e8af139f46b34ea44ccd5e773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e37ed9e927a5f4b8c05e0a5d5b3a45d') in 0.109696 seconds 
+  Import took 0.122896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Персонажи/чиби кун.png
+  artifactKey: Guid(173405405c43d1d488683a072adeedc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Персонажи/чиби кун.png using Guid(173405405c43d1d488683a072adeedc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '109aa82490cbdecd6c6fe0b871327d71') in 0.084872 seconds 
+  Import took 0.098551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Персонажи/Фокси.png
+  artifactKey: Guid(bd6f2c3ebcf518a46b2bd129ef486215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Персонажи/Фокси.png using Guid(bd6f2c3ebcf518a46b2bd129ef486215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1722b74dac5fbe6230a4eb0e5d8b45d0') in 0.150984 seconds 
+  Import took 0.163333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/Персонажи/Пёсо Дед резерв.psd
+  artifactKey: Guid(edb801e34d8ebf248bee628f5619b4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Персонажи/Пёсо Дед резерв.psd using Guid(edb801e34d8ebf248bee628f5619b4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5654492021a76e94114c0af0c588b8d0') in 0.115201 seconds 
+  Import took 0.127547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000489 seconds.
+  path: Assets/Персонажи/Вомбат корич.png
+  artifactKey: Guid(baa14d61c59af854bbca2acc8d0ad6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Персонажи/Вомбат корич.png using Guid(baa14d61c59af854bbca2acc8d0ad6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ad4d2bc1622caaba5df3acc0cb11fbe') in 0.237083 seconds 
+  Import took 0.254404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000472 seconds.
+  path: Assets/Персонажи/Жарптица Вниз.png
+  artifactKey: Guid(0148bfa9d21ac4847b59a080b781eab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Персонажи/Жарптица Вниз.png using Guid(0148bfa9d21ac4847b59a080b781eab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '489e1e359268bc65a55321c4303ef9db') in 0.121695 seconds 
+  Import took 0.133812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Персонажи/Вомбат розв.png
+  artifactKey: Guid(80a4ee7999dc6214fa17c5fb21fffd96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Персонажи/Вомбат розв.png using Guid(80a4ee7999dc6214fa17c5fb21fffd96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6414693423569249ebc7ee83ac7f2af3') in 0.154010 seconds 
+  Import took 0.169626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000630 seconds.
+  path: Assets/Персонажи/Пёсо Дед.png
+  artifactKey: Guid(79e7369960257f74fbe06dbe1bdfeab1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Персонажи/Пёсо Дед.png using Guid(79e7369960257f74fbe06dbe1bdfeab1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '323c6065ac33c18b00c94e750a589b29') in 0.089474 seconds 
+  Import took 0.101105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000501 seconds.
+  path: Assets/Персонажи/Инкогнито резерв.psd
+  artifactKey: Guid(08b0c163b9592574da297b2bbe670c6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Персонажи/Инкогнито резерв.psd using Guid(08b0c163b9592574da297b2bbe670c6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59f00fba3cef0e2527036fec6271a3ac') in 0.110103 seconds 
+  Import took 0.124882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Персонажи/Лососяндр.png
+  artifactKey: Guid(01c649653e3528645a76052aa9854ae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Персонажи/Лососяндр.png using Guid(01c649653e3528645a76052aa9854ae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffbb182aaf65bdb67a8ec34e4bec7f72') in 0.108807 seconds 
+  Import took 0.121751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.114627 seconds.
+  path: Assets/Эпизоды (фоны и объекты)
+  artifactKey: Guid(b474af0202bf22948a087731f99bd266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Эпизоды (фоны и объекты) using Guid(b474af0202bf22948a087731f99bd266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9e2124e1bc9b3f88d229e51d44e0282') in 0.037530 seconds 
+  Import took 0.050343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046499 seconds.
+  path: Assets/Эпизоды (фоны и объекты)/Таверна.png
+  artifactKey: Guid(79fecd1fd2bcd6c49b92a867b666c7bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Эпизоды (фоны и объекты)/Таверна.png using Guid(79fecd1fd2bcd6c49b92a867b666c7bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42aafddaa65593144ddf86676a1a94c7') in 0.059040 seconds 
+  Import took 0.084054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.861813 seconds.
+  path: Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон
+  artifactKey: Guid(b46a6008ff773394d8a54dda3138453e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон using Guid(b46a6008ff773394d8a54dda3138453e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b474b919e2d8ef082362a03c66f8ea2d') in 0.024841 seconds 
+  Import took 0.039304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.088933 seconds.
+  path: Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/1.png
+  artifactKey: Guid(7719d9c9b1413784280ddef791941dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/1.png using Guid(7719d9c9b1413784280ddef791941dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dee26c112c8d9a0a6f71e8b82626db4') in 0.041922 seconds 
+  Import took 0.057462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/2.png
+  artifactKey: Guid(a02313ab1005b2147996bcfe371c16e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/2.png using Guid(a02313ab1005b2147996bcfe371c16e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03e789e78e8b224878f5d601fdff5159') in 0.086314 seconds 
+  Import took 0.099678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001031 seconds.
+  path: Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/5.png
+  artifactKey: Guid(c2f00e22b0c5f2d4c9841d48caf00b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/5.png using Guid(c2f00e22b0c5f2d4c9841d48caf00b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a329ba6115f1ec18aa919dc72ab9841') in 0.087259 seconds 
+  Import took 0.102240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/3.png
+  artifactKey: Guid(ea2ed1d1e9a14304983de970ee2d1bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/3.png using Guid(ea2ed1d1e9a14304983de970ee2d1bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4998dbb7496f553d9a9495457a42975d') in 0.108283 seconds 
+  Import took 0.124007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/background.png
+  artifactKey: Guid(d157f182a2d79bb4cbc594750ebc43fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/background.png using Guid(d157f182a2d79bb4cbc594750ebc43fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1f3f0a027dee71e221e3017f9b10fe0') in 0.108100 seconds 
+  Import took 0.122429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/4.png
+  artifactKey: Guid(d2601638a17c1c54f85d8ba12d364c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/4.png using Guid(d2601638a17c1c54f85d8ba12d364c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71434b24a0ac71465c2b465e31e7ac3f') in 0.142083 seconds 
+  Import took 0.157239 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
