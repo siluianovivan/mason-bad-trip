@@ -17,6 +17,7 @@ Logs/AssetImportWorker0.log
 -srvPort
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 >>>>>>> parent of 3087dae (Add a animation between scenes.)
@@ -42,6 +43,13 @@ Refreshing native plugins compatible for Editor in 105.18 ms, found 3 plugins.
 >>>>>>> parent of afea41f (Add a transition between episodes.)
 =======
 >>>>>>> parent of 3087dae (Add a animation between scenes.)
+=======
+62205
+Successfully changed project path to: C:/Users/Никита/mason-bad-trip
+C:/Users/Никита/mason-bad-trip
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 105.18 ms, found 3 plugins.
+>>>>>>> parent of afea41f (Add a transition between episodes.)
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.13f1 (71691879b7f5)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
@@ -57,6 +65,7 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
@@ -82,6 +91,13 @@ Registered in 0.001339 seconds.
 =======
 Registered in 0.007640 seconds.
 >>>>>>> parent of afea41f (Add a transition between episodes.)
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56952
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007640 seconds.
+>>>>>>> parent of afea41f (Add a transition between episodes.)
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 262.32 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
@@ -95,6 +111,7 @@ Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 88.58 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 - Completed reload, in  1.172 seconds
 Platform modules already initialized, skipping
@@ -116,11 +133,20 @@ Refreshing native plugins compatible for Editor in 1.21 ms, found 3 plugins.
 >>>>>>> parent of afea41f (Add a transition between episodes.)
 =======
 >>>>>>> parent of 3087dae (Add a animation between scenes.)
+=======
+- Completed reload, in  3.137 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.26 seconds
+Refreshing native plugins compatible for Editor in 1.21 ms, found 3 plugins.
+>>>>>>> parent of afea41f (Add a transition between episodes.)
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2108 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 93.5 MB.
 System memory in use after: 93.6 MB.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2546.
 Total: 2.791000 ms (FindLiveObjects: 0.196800 ms CreateObjectMapping: 0.086800 ms MarkObjects: 2.428100 ms  DeleteObjects: 0.077600 ms)
@@ -134,6 +160,10 @@ Total: 6.762100 ms (FindLiveObjects: 0.656400 ms CreateObjectMapping: 0.281100 m
 >>>>>>> parent of afea41f (Add a transition between episodes.)
 =======
 >>>>>>> parent of 3087dae (Add a animation between scenes.)
+=======
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2548.
+Total: 6.762100 ms (FindLiveObjects: 0.656400 ms CreateObjectMapping: 0.281100 ms MarkObjects: 5.669800 ms  DeleteObjects: 0.150500 ms)
+>>>>>>> parent of afea41f (Add a transition between episodes.)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -147,6 +177,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
 <<<<<<< HEAD
   path: Assets/Эпизоды (фоны и объекты)/Эпизод 1 Создание Сервера/Эпизод 1. Fucking slaves get your ass back here.mp3
   artifactKey: Guid(b6c4ec5f539aceb49bb3638a9bde2ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -165,10 +196,13 @@ Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2546.
 Total: 1.810300 ms (FindLiveObjects: 0.166500 ms CreateObjectMapping: 0.077300 ms MarkObjects: 1.530400 ms  DeleteObjects: 0.035300 ms)
 >>>>>>> Stashed changes
 =======
+=======
+>>>>>>> parent of afea41f (Add a transition between episodes.)
   path: Assets/Sprites/UI/Кнопка меню 1.png
   artifactKey: Guid(45c9a21b6d6c96146962804a82dfd2b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Sprites/UI/Кнопка меню 1.png using Guid(45c9a21b6d6c96146962804a82dfd2b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '120342cc6d8b398880a070f63880c851') in 0.688170 seconds 
   Import took 0.695971 seconds .
+<<<<<<< HEAD
 >>>>>>> parent of afea41f (Add a transition between episodes.)
 =======
 >>>>>>> parent of 3087dae (Add a animation between scenes.)
@@ -194,11 +228,19 @@ Received Import Request.
 Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 1 Создание Сервера using Guid(42ac49da52172a74f86722baf64b2e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c28cc8b2f190ac0e266e3e11c3436e6') in 0.005273 seconds 
   Import took 0.009262 seconds .
 =======
+=======
+
+========================================================================
+Received Import Request.
+>>>>>>> parent of afea41f (Add a transition between episodes.)
   Time since last request: 7.893366 seconds.
   path: Assets/Sprites/UI/Для диолога1 1.png
   artifactKey: Guid(1dbdfb4f8675323459e5c48fa447361f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Sprites/UI/Для диолога1 1.png using Guid(1dbdfb4f8675323459e5c48fa447361f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bab737cf64b8b2788d8d84e0a3828ad0') in 0.127050 seconds 
   Import took 0.150781 seconds .
+<<<<<<< HEAD
+>>>>>>> parent of afea41f (Add a transition between episodes.)
+=======
 >>>>>>> parent of afea41f (Add a transition between episodes.)
 
 ========================================================================
@@ -276,6 +318,7 @@ Start importing Assets/Персонажи/Жаб.png using Guid(11e6285a3ce07d44
 ========================================================================
 Received Import Request.
 <<<<<<< HEAD
+<<<<<<< HEAD
   Time since last request: 0.000131 seconds.
   path: Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Звуки/Эпизод 3. Вы кто такие. Я Вас не звал. Идите на хуй.mp3
   artifactKey: Guid(fa96a395fabc4d845b6c24a8f8221ce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -303,6 +346,14 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+=======
+  Time since last request: 0.000398 seconds.
+  path: Assets/Персонажи/Инкогнито.png
+  artifactKey: Guid(6d812a6ce7360374d8dea5afcc02b31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Персонажи/Инкогнито.png using Guid(6d812a6ce7360374d8dea5afcc02b31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4048c6852b2ee35f6079fef60248cd76') in 0.087220 seconds 
+  Import took 0.099226 seconds .
+
+>>>>>>> parent of afea41f (Add a transition between episodes.)
 =======
   Time since last request: 0.000398 seconds.
   path: Assets/Персонажи/Инкогнито.png
@@ -354,6 +405,7 @@ Start importing Assets/Персонажи/Жарптица силуэт.png usin
 ========================================================================
 Received Import Request.
 <<<<<<< HEAD
+<<<<<<< HEAD
   Time since last request: 0.000147 seconds.
   path: Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Телефон/Звуки телефона.png
   artifactKey: Guid(0b79afe5f4041d348aae74426aefefdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -382,14 +434,19 @@ Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2558.
 Total: 1.979700 ms (FindLiveObjects: 0.180800 ms CreateObjectMapping: 0.079400 ms MarkObjects: 1.675000 ms  DeleteObjects: 0.043600 ms)
 >>>>>>> Stashed changes
 =======
+=======
+>>>>>>> parent of afea41f (Add a transition between episodes.)
   Time since last request: 0.000433 seconds.
   path: Assets/Персонажи/Вомбат резерв.psd
   artifactKey: Guid(ed119fa50164e33428f51e11017da1b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Персонажи/Вомбат резерв.psd using Guid(ed119fa50164e33428f51e11017da1b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96e6d727df18368d864c2b727f6036d8') in 0.223124 seconds 
   Import took 0.236842 seconds .
+<<<<<<< HEAD
 >>>>>>> parent of afea41f (Add a transition between episodes.)
 =======
 >>>>>>> parent of 3087dae (Add a animation between scenes.)
+=======
+>>>>>>> parent of afea41f (Add a transition between episodes.)
 
 ========================================================================
 Received Import Request.
@@ -489,6 +546,7 @@ Start importing Assets/Эпизоды (фоны и объекты) using Guid(b4
 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
 <<<<<<< HEAD
   Time since last request: 0.000119 seconds.
   path: Assets/Эпизоды (фоны и объекты)/Эпизод 8 Поцелуй Лйрраента!/не подходит.png
@@ -656,11 +714,16 @@ Received Import Request.
 Start importing Assets/Scripts/Player.cs using Guid(0f1a87c945afd124f9c145848c42b05e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cf6d6d6594062b0b321da3f32968271') in 0.010719 seconds 
   Import took 0.013690 seconds .
 =======
+=======
+>>>>>>> parent of afea41f (Add a transition between episodes.)
   Time since last request: 0.046499 seconds.
   path: Assets/Эпизоды (фоны и объекты)/Таверна.png
   artifactKey: Guid(79fecd1fd2bcd6c49b92a867b666c7bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Эпизоды (фоны и объекты)/Таверна.png using Guid(79fecd1fd2bcd6c49b92a867b666c7bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42aafddaa65593144ddf86676a1a94c7') in 0.059040 seconds 
   Import took 0.084054 seconds .
+<<<<<<< HEAD
+>>>>>>> parent of afea41f (Add a transition between episodes.)
+=======
 >>>>>>> parent of afea41f (Add a transition between episodes.)
 
 ========================================================================
@@ -698,6 +761,7 @@ Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 
 ========================================================================
 Received Import Request.
 <<<<<<< HEAD
+<<<<<<< HEAD
   Time since last request: 957.994168 seconds.
   path: Assets/Scripts/Game/Episodes/EpisodeTrigger.cs
   artifactKey: Guid(5fc7db8740db4d8c88d20f442c4e8cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -733,14 +797,19 @@ Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2598.
 Total: 1.867100 ms (FindLiveObjects: 0.175600 ms CreateObjectMapping: 0.065100 ms MarkObjects: 1.570600 ms  DeleteObjects: 0.055100 ms)
 >>>>>>> Stashed changes
 =======
+=======
+>>>>>>> parent of afea41f (Add a transition between episodes.)
   Time since last request: 0.000418 seconds.
   path: Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/3.png
   artifactKey: Guid(ea2ed1d1e9a14304983de970ee2d1bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 2 Место, где очухивается Масон/3.png using Guid(ea2ed1d1e9a14304983de970ee2d1bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4998dbb7496f553d9a9495457a42975d') in 0.108283 seconds 
   Import took 0.124007 seconds .
+<<<<<<< HEAD
 >>>>>>> parent of afea41f (Add a transition between episodes.)
 =======
 >>>>>>> parent of 3087dae (Add a animation between scenes.)
+=======
+>>>>>>> parent of afea41f (Add a transition between episodes.)
 
 ========================================================================
 Received Import Request.
