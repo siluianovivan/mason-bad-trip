@@ -170,6 +170,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 22100867}
   m_Enabled: 1
+<<<<<<< HEAD:Assets/Scenes/Episode 5.unity
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
   m_Name: 
@@ -181,6 +182,28 @@ MonoBehaviour:
     m_Bits: 4294967295
 --- !u!114 &22100870
 MonoBehaviour:
+=======
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
+--- !u!212 &1397770606
+SpriteRenderer:
+>>>>>>> parent of afea41f (Add a transition between episodes.):Assets/Scenes/episodes/Episode 5.unity
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -250,6 +273,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 398055329}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD:Assets/Scenes/Episode 5.unity
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -343,6 +367,10 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 4.6421194, y: 0.53225577, z: -158.17686}
   m_LocalScale: {x: 1, y: 1, z: 1}
+=======
+  m_LocalPosition: {x: -12.77, y: -8.93, z: 0}
+  m_LocalScale: {x: 8.485027, y: 1, z: 1}
+>>>>>>> parent of afea41f (Add a transition between episodes.):Assets/Scenes/episodes/Episode 5.unity
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
