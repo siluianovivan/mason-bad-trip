@@ -15,10 +15,7 @@ namespace Game.Episodes
 			{
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 				_otherGameObject.SetActive(true);
-=======
->>>>>>> parent of 3087dae (Add a animation between scenes.)
 				anim.Play();
 				_haveCollision = true;
 =======

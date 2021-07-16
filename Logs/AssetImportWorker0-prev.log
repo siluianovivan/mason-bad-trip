@@ -17,16 +17,12 @@ Logs/AssetImportWorker0.log
 -srvPort
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
-=======
->>>>>>> parent of 3087dae (Add a animation between scenes.)
 50711
 Successfully changed project path to: C:/Users/User/Documents/GitHub/mason-bad-trip
 C:/Users/User/Documents/GitHub/mason-bad-trip
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 42.76 ms, found 3 plugins.
-<<<<<<< HEAD
 =======
 59293
 Successfully changed project path to: C:/Users/User/Documents/GitHub/mason-bad-trip
@@ -41,8 +37,6 @@ C:/Users/Никита/mason-bad-trip
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 105.18 ms, found 3 plugins.
 >>>>>>> parent of afea41f (Add a transition between episodes.)
-=======
->>>>>>> parent of 3087dae (Add a animation between scenes.)
 =======
 62205
 Successfully changed project path to: C:/Users/Никита/mason-bad-trip
@@ -67,7 +61,6 @@ Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBl
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56848
 =======
@@ -76,26 +69,13 @@ Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,susp
 =======
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56952
 >>>>>>> parent of afea41f (Add a transition between episodes.)
-=======
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56848
->>>>>>> parent of 3087dae (Add a animation between scenes.)
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
-=======
->>>>>>> parent of 3087dae (Add a animation between scenes.)
 Registered in 0.001339 seconds.
 =======
-Registered in 0.007640 seconds.
->>>>>>> parent of afea41f (Add a transition between episodes.)
-=======
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56952
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Registered in 0.007640 seconds.
 >>>>>>> parent of afea41f (Add a transition between episodes.)
 Native extension for WindowsStandalone target not found
@@ -112,14 +92,32 @@ Refreshing native plugins compatible for Editor in 88.58 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
 <<<<<<< HEAD
-<<<<<<< HEAD
 - Completed reload, in  1.172 seconds
+=======
+Registered in 0.001059 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 35.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.775 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002481 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 36.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.983 seconds
+>>>>>>> Stashed changes
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+<<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
-<<<<<<< HEAD
 =======
 Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
 >>>>>>> Stashed changes
@@ -132,8 +130,24 @@ Launched and connected shader compiler UnityShaderCompiler.exe after 0.26 second
 Refreshing native plugins compatible for Editor in 1.21 ms, found 3 plugins.
 >>>>>>> parent of afea41f (Add a transition between episodes.)
 =======
->>>>>>> parent of 3087dae (Add a animation between scenes.)
-=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56952
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007640 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 262.32 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 10.569 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.039364 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 88.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
 - Completed reload, in  3.137 seconds
 Platform modules already initialized, skipping
 ========================================================================
@@ -149,8 +163,8 @@ System memory in use after: 93.6 MB.
 <<<<<<< HEAD
 <<<<<<< HEAD
 Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2546.
+<<<<<<< Updated upstream
 Total: 2.791000 ms (FindLiveObjects: 0.196800 ms CreateObjectMapping: 0.086800 ms MarkObjects: 2.428100 ms  DeleteObjects: 0.077600 ms)
-<<<<<<< HEAD
 =======
 Total: 1.872400 ms (FindLiveObjects: 0.181400 ms CreateObjectMapping: 0.079200 ms MarkObjects: 1.534700 ms  DeleteObjects: 0.076100 ms)
 >>>>>>> Stashed changes
@@ -158,8 +172,6 @@ Total: 1.872400 ms (FindLiveObjects: 0.181400 ms CreateObjectMapping: 0.079200 m
 Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2548.
 Total: 6.762100 ms (FindLiveObjects: 0.656400 ms CreateObjectMapping: 0.281100 ms MarkObjects: 5.669800 ms  DeleteObjects: 0.150500 ms)
 >>>>>>> parent of afea41f (Add a transition between episodes.)
-=======
->>>>>>> parent of 3087dae (Add a animation between scenes.)
 =======
 Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2548.
 Total: 6.762100 ms (FindLiveObjects: 0.656400 ms CreateObjectMapping: 0.281100 ms MarkObjects: 5.669800 ms  DeleteObjects: 0.150500 ms)
@@ -176,6 +188,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+<<<<<<< Updated upstream
 Received Import Request.
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -183,7 +196,6 @@ Received Import Request.
   artifactKey: Guid(b6c4ec5f539aceb49bb3638a9bde2ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 1 Создание Сервера/Эпизод 1. Fucking slaves get your ass back here.mp3 using Guid(b6c4ec5f539aceb49bb3638a9bde2ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dcfbfb5d023369f4eb7e1194f18ca3f') in 0.090655 seconds 
   Import took 0.093925 seconds .
-<<<<<<< HEAD
 =======
 Received Prepare
 Refreshing native plugins compatible for Editor in 2.36 ms, found 3 plugins.
@@ -205,15 +217,23 @@ Start importing Assets/Sprites/UI/Кнопка меню 1.png using Guid(45c9a21
 <<<<<<< HEAD
 >>>>>>> parent of afea41f (Add a transition between episodes.)
 =======
->>>>>>> parent of 3087dae (Add a animation between scenes.)
+>>>>>>> parent of afea41f (Add a transition between episodes.)
 
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
-=======
->>>>>>> parent of 3087dae (Add a animation between scenes.)
   Time since last request: 0.000165 seconds.
   path: Assets/Эпизоды (фоны и объекты)/Таверна.png
   artifactKey: Guid(79fecd1fd2bcd6c49b92a867b666c7bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -229,9 +249,6 @@ Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 
   Import took 0.009262 seconds .
 =======
 =======
-
-========================================================================
-Received Import Request.
 >>>>>>> parent of afea41f (Add a transition between episodes.)
   Time since last request: 7.893366 seconds.
   path: Assets/Sprites/UI/Для диолога1 1.png
@@ -324,9 +341,61 @@ Received Import Request.
   artifactKey: Guid(fa96a395fabc4d845b6c24a8f8221ce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Звуки/Эпизод 3. Вы кто такие. Я Вас не звал. Идите на хуй.mp3 using Guid(fa96a395fabc4d845b6c24a8f8221ce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '410feeb24c04cdd97bcdf3969da5352b') in 0.009861 seconds 
   Import took 0.012974 seconds .
+=======
+  path: Assets/Scenes/Episode 2.unity
+  artifactKey: Guid(5145235a3c5f0f44bab9ec65ddf21d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Episode 2.unity using Guid(5145235a3c5f0f44bab9ec65ddf21d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18ed1fa31481eb7335b6c4f2fe1552f0') in 0.013277 seconds 
+  Import took 0.017212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001688 seconds.
+  path: Assets/Scenes/Episode 2.unity
+  artifactKey: Guid(5145235a3c5f0f44bab9ec65ddf21d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Episode 2.unity using Guid(5145235a3c5f0f44bab9ec65ddf21d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18ed1fa31481eb7335b6c4f2fe1552f0') in 0.001695 seconds 
+  Import took 0.005131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 154.558066 seconds.
+  path: Assets/Scenes/Episode 5.unity
+  artifactKey: Guid(bd75717c430f8f14dba8dccbb3975e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Episode 5.unity using Guid(bd75717c430f8f14dba8dccbb3975e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '883426f986eecdcd493117a16eeb16cb') in 0.002624 seconds 
+  Import took 0.005676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.446615 seconds.
+  path: Assets/Scenes/Game.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f31c58fb763df9e4cf1d42c56954877') in 0.002204 seconds 
+  Import took 0.014325 seconds .
 
 ========================================================================
 Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002395 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.039 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2550.
+Total: 2.017100 ms (FindLiveObjects: 0.180500 ms CreateObjectMapping: 0.082200 ms MarkObjects: 1.709300 ms  DeleteObjects: 0.044100 ms)
+>>>>>>> Stashed changes
+
+========================================================================
+Received Prepare
+<<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 2.54 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
@@ -335,6 +404,26 @@ System memory in use after: 55.0 MB.
 
 Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2560.
 Total: 3.118900 ms (FindLiveObjects: 0.199200 ms CreateObjectMapping: 0.092200 ms MarkObjects: 2.780700 ms  DeleteObjects: 0.045500 ms)
+=======
+Registering precompiled user dll's ...
+Registered in 0.002206 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.916 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2554.
+Total: 2.049700 ms (FindLiveObjects: 0.181800 ms CreateObjectMapping: 0.073100 ms MarkObjects: 1.746200 ms  DeleteObjects: 0.047700 ms)
+>>>>>>> Stashed changes
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -363,6 +452,7 @@ Start importing Assets/Персонажи/Инкогнито.png using Guid(6d81
 
 >>>>>>> parent of afea41f (Add a transition between episodes.)
 ========================================================================
+<<<<<<< Updated upstream
 Received Import Request.
   Time since last request: 0.000388 seconds.
   path: Assets/Персонажи/Жарптица Вверх.png
@@ -411,7 +501,6 @@ Received Import Request.
   artifactKey: Guid(0b79afe5f4041d348aae74426aefefdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 3 Знакомство с Чебурашкой/Телефон/Звуки телефона.png using Guid(0b79afe5f4041d348aae74426aefefdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4246c3d099d3e0fef6a82f47639d1b9d') in 0.013235 seconds 
   Import took 0.016175 seconds .
-<<<<<<< HEAD
 =======
 Received Prepare
 Registering precompiled user dll's ...
@@ -444,11 +533,10 @@ Start importing Assets/Персонажи/Вомбат резерв.psd using Gu
 <<<<<<< HEAD
 >>>>>>> parent of afea41f (Add a transition between episodes.)
 =======
->>>>>>> parent of 3087dae (Add a animation between scenes.)
-=======
 >>>>>>> parent of afea41f (Add a transition between episodes.)
 
 ========================================================================
+<<<<<<< Updated upstream
 Received Import Request.
   Time since last request: 0.000695 seconds.
   path: Assets/Персонажи/чебырах.png
@@ -569,9 +657,41 @@ Received Import Request.
   artifactKey: Guid(8bfdca483f47d0e4e98443fa36aca72a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 9 Создание карты сервера/Эпизод 9. Тоннель.png using Guid(8bfdca483f47d0e4e98443fa36aca72a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ea38e932e1142fd7d8a10f81c7f55a7') in 0.015410 seconds 
   Import took 0.018414 seconds .
+=======
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002319 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.989 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.2 MB.
+System memory in use after: 93.3 MB.
 
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2562.
+Total: 2.364800 ms (FindLiveObjects: 0.198300 ms CreateObjectMapping: 0.082700 ms MarkObjects: 2.038300 ms  DeleteObjects: 0.044600 ms)
+>>>>>>> Stashed changes
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< Updated upstream
   Time since last request: 0.000139 seconds.
   path: Assets/Эпизоды (фоны и объекты)/Эпизод 9 Создание карты сервера/Эпизод 9. Стол 2.png
   artifactKey: Guid(3af06716ef60ab14587df8e6ffb425f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -593,8 +713,37 @@ Received Import Request.
   artifactKey: Guid(7369d95977fea6849b849292bb8706a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 10 Фанфик Фаншарка/Эпизод 10. Таверна.jpg using Guid(7369d95977fea6849b849292bb8706a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e56fb998cf486e3212c8b41b2f18c78') in 0.012063 seconds 
   Import took 0.015133 seconds .
+=======
+  Time since last request: 290.562546 seconds.
+  path: Assets/Scenes/Menu.unity
+  artifactKey: Guid(5c5882ada66dd4e4d8ad372200407b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Menu.unity using Guid(5c5882ada66dd4e4d8ad372200407b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7abe8b2ff990b3b91c939b1a1f56f31f') in 0.015294 seconds 
+  Import took 0.018591 seconds .
 
 ========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002613 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.904 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.2 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2566.
+Total: 2.100900 ms (FindLiveObjects: 0.181200 ms CreateObjectMapping: 0.076600 ms MarkObjects: 1.795600 ms  DeleteObjects: 0.046600 ms)
+>>>>>>> Stashed changes
+
+========================================================================
+<<<<<<< Updated upstream
 Received Import Request.
   Time since last request: 1.079886 seconds.
   path: Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/walkie_talkie_PNG92791.png
@@ -617,8 +766,30 @@ Received Import Request.
   artifactKey: Guid(d7c4599ea0079cf428b7d6a47d5dfc05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/Эпизод 11. Полёт на Жар-Птице.png using Guid(d7c4599ea0079cf428b7d6a47d5dfc05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05d0e4f1876d99f480a8e0affed0adfb') in 0.011770 seconds 
   Import took 0.023648 seconds .
+=======
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002460 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.940 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.2 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2570.
+Total: 1.962300 ms (FindLiveObjects: 0.181400 ms CreateObjectMapping: 0.076200 ms MarkObjects: 1.620400 ms  DeleteObjects: 0.060400 ms)
+>>>>>>> Stashed changes
 
 ========================================================================
+<<<<<<< Updated upstream
 Received Import Request.
   Time since last request: 34.372470 seconds.
   path: Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/Эпизод 11. Вилла
@@ -633,8 +804,40 @@ Received Import Request.
   artifactKey: Guid(002ae9cb17be42a478387916389d3883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/Эпизод 11. Вилла/стол.png using Guid(002ae9cb17be42a478387916389d3883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47a88be2d242cbb7dba5f71364fee40e') in 0.015526 seconds 
   Import took 0.019085 seconds .
+=======
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003108 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.415 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.2 MB.
+System memory in use after: 93.3 MB.
 
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2574.
+Total: 1.918000 ms (FindLiveObjects: 0.206500 ms CreateObjectMapping: 0.086300 ms MarkObjects: 1.577500 ms  DeleteObjects: 0.046700 ms)
+>>>>>>> Stashed changes
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+<<<<<<< Updated upstream
 Received Import Request.
   Time since last request: 0.000135 seconds.
   path: Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/Эпизод 11. Вилла/шарики.png
@@ -649,8 +852,40 @@ Received Import Request.
   artifactKey: Guid(8728333086f331c41abe83cfdc91aeb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/Эпизод 11. Вилла/торт.png using Guid(8728333086f331c41abe83cfdc91aeb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbc07df003e2e06da56a2829a58ab989') in 0.013223 seconds 
   Import took 0.016071 seconds .
+=======
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002414 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.957 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.2 MB.
+System memory in use after: 93.3 MB.
 
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2578.
+Total: 1.765900 ms (FindLiveObjects: 0.162300 ms CreateObjectMapping: 0.066700 ms MarkObjects: 1.458500 ms  DeleteObjects: 0.077600 ms)
+>>>>>>> Stashed changes
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+<<<<<<< Updated upstream
 Received Import Request.
   Time since last request: 0.000135 seconds.
   path: Assets/Эпизоды (фоны и объекты)/Эпизод 11 Полёт на Жар-Птице/Эпизод 11. Вилла/фон.png
@@ -665,9 +900,31 @@ Received Import Request.
   artifactKey: Guid(6fd4d1d015f10604faff98e3c77617b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Sprites/6f6ec310eedfbcb45f300d24d0ea0cda.png using Guid(6fd4d1d015f10604faff98e3c77617b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f3fbf02102aa323d4abe2ca726e187b') in 0.037260 seconds 
   Import took 0.041719 seconds .
+=======
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002399 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.901 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.3 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2582.
+Total: 2.113600 ms (FindLiveObjects: 0.243900 ms CreateObjectMapping: 0.139200 ms MarkObjects: 1.682600 ms  DeleteObjects: 0.046800 ms)
+>>>>>>> Stashed changes
 
 ========================================================================
 Received Import Request.
+<<<<<<< Updated upstream
   Time since last request: 0.000140 seconds.
   path: Assets/Sprites/sprites-1.jpg
   artifactKey: Guid(11abe45f81b2ce8449e1db73fa5783dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -681,8 +938,37 @@ Received Import Request.
   artifactKey: Guid(b440a2dbd257aa54a937b2e0c8332472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Sprites/cloud.jpg using Guid(b440a2dbd257aa54a937b2e0c8332472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17c0640fe35b04d7de1eb83a783ac1fe') in 0.021083 seconds 
   Import took 0.024228 seconds .
+=======
+  Time since last request: 581.961787 seconds.
+  path: Assets/Scenes/Game.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f23e03ddf11f1945ef0793dcabf1e1c') in 0.016286 seconds 
+  Import took 0.028212 seconds .
 
 ========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003286 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.410 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.3 MB.
+System memory in use after: 93.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2586.
+Total: 1.952300 ms (FindLiveObjects: 0.166500 ms CreateObjectMapping: 0.072600 ms MarkObjects: 1.627800 ms  DeleteObjects: 0.084900 ms)
+>>>>>>> Stashed changes
+
+========================================================================
+<<<<<<< Updated upstream
 Received Import Request.
   Time since last request: 0.000149 seconds.
   path: Assets/Sprites/cloud.png
@@ -697,9 +983,31 @@ Received Import Request.
   artifactKey: Guid(8289d5edcbae454fae6b86b746ac77b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scripts/Game using Guid(8289d5edcbae454fae6b86b746ac77b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dcac0f32a80b2ebec74ee6f6541306e') in 0.006391 seconds 
   Import took 0.010330 seconds .
+=======
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002535 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.383 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.3 MB.
+System memory in use after: 93.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2590.
+Total: 5.761400 ms (FindLiveObjects: 1.183300 ms CreateObjectMapping: 0.156800 ms MarkObjects: 4.319200 ms  DeleteObjects: 0.096800 ms)
+>>>>>>> Stashed changes
 
 ========================================================================
 Received Import Request.
+<<<<<<< Updated upstream
   Time since last request: 1.767845 seconds.
   path: Assets/Scripts/Game/Dialogs
   artifactKey: Guid(2eb0690108cd4dd49272369579de5ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -767,10 +1075,39 @@ Received Import Request.
   artifactKey: Guid(5fc7db8740db4d8c88d20f442c4e8cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scripts/Game/Episodes/EpisodeTrigger.cs using Guid(5fc7db8740db4d8c88d20f442c4e8cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c52085f5fa7679d878fa2d6e822f289') in 0.006869 seconds 
   Import took 0.011061 seconds .
+=======
+  Time since last request: 198.301661 seconds.
+  path: Assets/Scenes/Game.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad6b7d298a45cd9afeaf942cfe90eaf1') in 0.012138 seconds 
+  Import took 0.023683 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+Registered in 0.003569 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.158 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.3 MB.
+System memory in use after: 93.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2594.
+Total: 1.880700 ms (FindLiveObjects: 0.188400 ms CreateObjectMapping: 0.070100 ms MarkObjects: 1.577300 ms  DeleteObjects: 0.044200 ms)
+>>>>>>> Stashed changes
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+<<<<<<< Updated upstream
 Registered in 0.075740 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -779,16 +1116,26 @@ Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
 - Completed reload, in  1.041 seconds
+=======
+Registered in 0.002096 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.837 seconds
+>>>>>>> Stashed changes
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+<<<<<<< Updated upstream
 System memory in use before: 96.1 MB.
 System memory in use after: 96.2 MB.
 
 Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2590.
 Total: 2.106600 ms (FindLiveObjects: 0.177200 ms CreateObjectMapping: 0.069700 ms MarkObjects: 1.766900 ms  DeleteObjects: 0.092100 ms)
-<<<<<<< HEAD
 =======
 System memory in use before: 93.3 MB.
 System memory in use after: 93.4 MB.
@@ -806,8 +1153,6 @@ Start importing Assets/Эпизоды (фоны и объекты)/Эпизод 
   Import took 0.124007 seconds .
 <<<<<<< HEAD
 >>>>>>> parent of afea41f (Add a transition between episodes.)
-=======
->>>>>>> parent of 3087dae (Add a animation between scenes.)
 =======
 >>>>>>> parent of afea41f (Add a transition between episodes.)
 
