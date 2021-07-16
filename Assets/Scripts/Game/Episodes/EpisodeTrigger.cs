@@ -38,6 +38,7 @@ namespace Game.Episodes
 		{
 			if (other.gameObject.CompareTag("PPlayer"))
 			{
+				_otherGameObject.SetActive(true);
 				anim.Play();
 				_haveCollision = true;
 				PlayerEnteredTheTrigger?.Invoke();
